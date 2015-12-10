@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestPlan>
+  <Name>PlanGeneral</Name>
+  <NumberOfExecutionsPerImageAndProvider>2</NumberOfExecutionsPerImageAndProvider>
+  <Providers>
+    <ProviderName>FaceRect</ProviderName>
+    <ProviderName>SkyBiometry</ProviderName>
+    <ProviderName>OpenCV</ProviderName>
+	<ProviderName>GooglePlay</ProviderName>
+  </Providers>
+  <settings>
+    <Eyes>true</Eyes>
+    <Smile>false</Smile>
+    <Nose>true</Nose>
+    <Ears>false</Ears>
+    <Sunglasses>false</Sunglasses>
+    <FaceOrientation>false</FaceOrientation>
+    <Cheeks>false</Cheeks>
+    <Gender>false</Gender>
+    <Mouth>true</Mouth>
+    <Glasses>false</Glasses>
+  </settings>
+  <Images>
+    <DirectoryName>C:\Users\Martina\workspace\TestToolJava\TestImages</DirectoryName>
+  </Images>
+  <Metrics>
+    <Metric>ResponseTime</Metric>
+    <Metric>HausdorffDistance</Metric>
+    <Metric>Precision</Metric>
+    <Metric>ImageSize</Metric>
+    <Metric>ImageFormat</Metric>
+  </Metrics>
+</TestPlan>

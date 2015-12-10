@@ -1,0 +1,697 @@
+Execution number, image name, Provider name, Response Time (in seconds), Hausdorff Distance (in pixels), Precision (in per cents), Image Size (in KBs), Image Format
+1Âº, BioID_0011.jpg, FaceRect, 3.670016, 113.71895, error - archivo incorrecto para Precision, 21.817383, jpg
+1Âº, BioID_0012.jpg, FaceRect, 1.862271, 118.680244, error - archivo incorrecto para Precision, 21.493164, jpg
+1Âº, BioID_0013.jpg, FaceRect, 2.0216546, 105.702415, error - archivo incorrecto para Precision, 21.993164, jpg
+1Âº, BioID_0014.jpg, FaceRect, 2.386559, 267.71066, error - archivo incorrecto para Precision, 21.920898, jpg
+1Âº, BioID_0015.jpg, FaceRect, 2.2103982, 264.57892, error - archivo incorrecto para Precision, 21.816406, jpg
+1Âº, BioID_0016.jpg, FaceRect, 1.5896412, 121.65525, error - archivo incorrecto para Precision, 18.302734, jpg
+1Âº, BioID_0017.jpg, FaceRect, 2.3278387, 119.40687, error - archivo incorrecto para Precision, 18.594727, jpg
+1Âº, BioID_0018.jpg, FaceRect, 1.8287165, 125.39936, error - archivo incorrecto para Precision, 22.86621, jpg
+1Âº, BioID_0019.jpg, FaceRect, 1.95874, 107.07007, error - archivo incorrecto para Precision, 24.311523, jpg
+1Âº, BioID_0020.jpg, FaceRect, 1.4302577, 104.62313, error - archivo incorrecto para Precision, 24.569336, jpg
+1Âº, BioID_0021.jpg, FaceRect, 1.7783849, 110.45361, error - archivo incorrecto para Precision, 24.835938, jpg
+1Âº, BioID_0022.jpg, FaceRect, 1.9293798, 114.05701, error - archivo incorrecto para Precision, 24.807617, jpg
+1Âº, BioID_0023.jpg, FaceRect, 2.1139293, 106.174385, error - archivo incorrecto para Precision, 25.745117, jpg
+1Âº, BioID_0024.jpg, FaceRect, 1.2708741, 115.965515, error - archivo incorrecto para Precision, 25.074219, jpg
+1Âº, BioID_0025.jpg, FaceRect, 1.7616076, 144.3087, error - archivo incorrecto para Precision, 14.457031, jpg
+1Âº, BioID_0026.jpg, FaceRect, 0.9395241, 115.1043, error - archivo incorrecto para Precision, 15.537109, jpg
+1Âº, BioID_0027.jpg, FaceRect, 1.5099494, 106.02358, error - archivo incorrecto para Precision, 17.082031, jpg
+1Âº, BioID_0028.jpg, FaceRect, 1.1702108, 110.63905, error - archivo incorrecto para Precision, 16.546875, jpg
+1Âº, BioID_0029.jpg, FaceRect, 1.5183381, 110.01818, error - archivo incorrecto para Precision, 16.63086, jpg
+1Âº, BioID_0030.jpg, FaceRect, 1.4092861, 110.47624, error - archivo incorrecto para Precision, 16.469727, jpg
+1Âº, BioID_0031.jpg, FaceRect, 1.5896412, 111.41364, error - archivo incorrecto para Precision, 16.368164, jpg
+1Âº, BioID_0032.jpg, FaceRect, 2.0594032, 106.32967, error - archivo incorrecto para Precision, 16.195313, jpg
+1Âº, BioID_0033.jpg, FaceRect, 1.3883146, 120.22063, error - archivo incorrecto para Precision, 15.928711, jpg
+1Âº, BioID_0034.jpg, FaceRect, 0.97307855, 118.511604, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0035.jpg, FaceRect, 1.0108273, 113.74094, error - archivo incorrecto para Precision, 15.762695, jpg
+1Âº, BioID_0036.jpg, FaceRect, 0.95630133, 121.24768, error - archivo incorrecto para Precision, 15.116211, jpg
+1Âº, BioID_0037.jpg, FaceRect, 1.0611589, 120.41595, error - archivo incorrecto para Precision, 15.091797, jpg
+1Âº, BioID_0038.jpg, FaceRect, 1.5518925, 107.042046, error - archivo incorrecto para Precision, 15.859375, jpg
+1Âº, BioID_0039.jpg, FaceRect, 1.1408507, 109.60383, error - archivo incorrecto para Precision, 15.810547, jpg
+1Âº, BioID_0040.jpg, FaceRect, 2.1181235, 259.62473, error - archivo incorrecto para Precision, 15.34082, jpg
+1Âº, BioID_0041.jpg, FaceRect, 1.0779362, 117.13667, error - archivo incorrecto para Precision, 15.602539, jpg
+1Âº, BioID_0042.jpg, FaceRect, 0.9395241, 257.94766, error - archivo incorrecto para Precision, 15.364258, jpg
+1Âº, BioID_0043.jpg, FaceRect, 1.2289311, 122.44999, error - archivo incorrecto para Precision, 15.910156, jpg
+1Âº, BioID_0044.jpg, FaceRect, 1.4596177, 123.709335, error - archivo incorrecto para Precision, 14.995117, jpg
+1Âº, BioID_0045.jpg, FaceRect, 1.337983, 126.751724, error - archivo incorrecto para Precision, 14.691406, jpg
+1Âº, BioID_0046.jpg, FaceRect, 1.3002342, 263.18054, error - archivo incorrecto para Precision, 16.53711, jpg
+1Âº, BioID_0047.jpg, FaceRect, 1.2499026, 227.84424, error - archivo incorrecto para Precision, 17.785156, jpg
+1Âº, BioID_0048.jpg, FaceRect, 2.1978152, 133.95895, error - archivo incorrecto para Precision, 17.453125, jpg
+1Âº, BioID_0049.jpg, FaceRect, 1.4889779, 130.04999, error - archivo incorrecto para Precision, 17.314453, jpg
+1Âº, BioID_0050.jpg, FaceRect, 2.0510147, 116.38728, error - archivo incorrecto para Precision, 22.249023, jpg
+1Âº, BioID_0051.jpg, FaceRect, 2.0803747, 150.86418, error - archivo incorrecto para Precision, 22.047852, jpg
+1Âº, BioID_0052.jpg, FaceRect, 1.5476981, 116.48176, error - archivo incorrecto para Precision, 22.344727, jpg
+1Âº, BioID_0053.jpg, FaceRect, 2.2229812, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.060547, jpg
+1Âº, BioID_0054.jpg, FaceRect, 1.9000198, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.248047, jpg
+1Âº, BioID_0055.jpg, FaceRect, 1.4176748, 250.14595, error - archivo incorrecto para Precision, 20.226563, jpg
+1Âº, BioID_0056.jpg, FaceRect, 2.1307065, 109.201645, error - archivo incorrecto para Precision, 19.010742, jpg
+1Âº, BioID_0057.jpg, FaceRect, 1.9713229, 107.563934, error - archivo incorrecto para Precision, 20.30371, jpg
+1Âº, BioID_0058.jpg, FaceRect, 2.2103982, 115.952576, error - archivo incorrecto para Precision, 20.613281, jpg
+1Âº, BioID_0059.jpg, FaceRect, 1.379926, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.139648, jpg
+1Âº, BioID_0060.jpg, FaceRect, 1.9377685, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.017578, jpg
+1Âº, BioID_0061.jpg, FaceRect, 2.2565355, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 20.74414, jpg
+1Âº, BioID_0062.jpg, FaceRect, 1.5225323, 121.75796, error - archivo incorrecto para Precision, 19.97461, jpg
+1Âº, BioID_0063.jpg, FaceRect, 1.7280532, 252.93675, error - archivo incorrecto para Precision, 20.560547, jpg
+1Âº, BioID_0064.jpg, FaceRect, 1.669333, 114.49017, error - archivo incorrecto para Precision, 20.063477, jpg
+1Âº, BioID_0065.jpg, FaceRect, 2.000683, 109.48059, error - archivo incorrecto para Precision, 20.195313, jpg
+1Âº, BioID_0066.jpg, FaceRect, 1.1198791, 120.20815, error - archivo incorrecto para Precision, 20.341797, jpg
+1Âº, BioID_0067.jpg, FaceRect, 1.560281, 117.64353, error - archivo incorrecto para Precision, 20.948242, jpg
+1Âº, BioID_0068.jpg, FaceRect, 1.8916311, 108.24047, error - archivo incorrecto para Precision, 21.054688, jpg
+1Âº, BioID_0069.jpg, FaceRect, 1.4302577, 254.80385, error - archivo incorrecto para Precision, 21.067383, jpg
+1Âº, BioID_0070.jpg, FaceRect, 2.0300431, 275.6175, error - archivo incorrecto para Precision, 21.001953, jpg
+1Âº, BioID_0071.jpg, FaceRect, 1.3212057, 112.29426, error - archivo incorrecto para Precision, 21.8125, jpg
+1Âº, BioID_0072.jpg, FaceRect, 1.421869, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 22.425781, jpg
+1Âº, BioID_0073.jpg, FaceRect, 1.9000198, 251.18121, error - archivo incorrecto para Precision, 21.523438, jpg
+1Âº, BioID_0074.jpg, FaceRect, 1.6903045, 253.94684, error - archivo incorrecto para Precision, 21.66504, jpg
+1Âº, BioID_0075.jpg, FaceRect, 1.4973665, 117.65203, error - archivo incorrecto para Precision, 21.253906, jpg
+1Âº, BioID_0076.jpg, FaceRect, 1.6819159, 129.79985, error - archivo incorrecto para Precision, 15.52832, jpg
+1Âº, BioID_0077.jpg, FaceRect, 1.4176748, 122.67436, error - archivo incorrecto para Precision, 15.920898, jpg
+1Âº, BioID_0078.jpg, FaceRect, 1.3002342, 113.15918, error - archivo incorrecto para Precision, 16.164063, jpg
+1Âº, BioID_0079.jpg, FaceRect, 1.1911824, 114.54257, error - archivo incorrecto para Precision, 16.044922, jpg
+1Âº, BioID_0080.jpg, FaceRect, 1.0401874, 155.64703, error - archivo incorrecto para Precision, 15.923828, jpg
+1Âº, BioID_0081.jpg, FaceRect, 1.4512292, 160.97516, error - archivo incorrecto para Precision, 15.902344, jpg
+1Âº, BioID_0082.jpg, FaceRect, 1.5686697, 120.74767, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0083.jpg, FaceRect, 1.5980299, 258.58847, error - archivo incorrecto para Precision, 16.08789, jpg
+1Âº, BioID_0084.jpg, FaceRect, 1.3505659, 154.32434, error - archivo incorrecto para Precision, 15.886719, jpg
+1Âº, BioID_0085.jpg, FaceRect, 1.0359931, 269.65164, error - archivo incorrecto para Precision, 15.874023, jpg
+1Âº, BioID_0086.jpg, FaceRect, 1.3631488, 113.59577, error - archivo incorrecto para Precision, 15.769531, jpg
+1Âº, BioID_0087.jpg, FaceRect, 1.2708741, 118.966385, error - archivo incorrecto para Precision, 15.893555, jpg
+1Âº, BioID_0088.jpg, FaceRect, 1.1911824, 117.18362, error - archivo incorrecto para Precision, 15.878906, jpg
+1Âº, BioID_0089.jpg, FaceRect, 1.0695475, 148.66069, error - archivo incorrecto para Precision, 16.176758, jpg
+1Âº, BioID_0090.jpg, FaceRect, 1.2666798, 107.200745, error - archivo incorrecto para Precision, 18.760742, jpg
+1Âº, BioID_0091.jpg, FaceRect, 1.2876513, 112.27199, error - archivo incorrecto para Precision, 18.506836, jpg
+1Âº, BioID_0092.jpg, FaceRect, 2.2607298, 118.473625, error - archivo incorrecto para Precision, 18.338867, jpg
+1Âº, BioID_0093.jpg, FaceRect, 1.7322476, 116.70904, error - archivo incorrecto para Precision, 18.586914, jpg
+1Âº, BioID_0094.jpg, FaceRect, 1.9881, 128.87592, error - archivo incorrecto para Precision, 18.576172, jpg
+1Âº, BioID_0095.jpg, FaceRect, 1.7028874, 113.03097, error - archivo incorrecto para Precision, 18.927734, jpg
+1Âº, BioID_0096.jpg, FaceRect, 1.2121539, 111.83023, error - archivo incorrecto para Precision, 18.919922, jpg
+1Âº, BioID_0097.jpg, FaceRect, 1.9084083, 128.44453, error - archivo incorrecto para Precision, 19.106445, jpg
+1Âº, BioID_0011.jpg, SkyBiometry, 2.537554, 3.1622777, error - archivo incorrecto para Precision, 21.817383, jpg
+1Âº, BioID_0012.jpg, SkyBiometry, 2.1978152, 3.6055512, error - archivo incorrecto para Precision, 21.493164, jpg
+1Âº, BioID_0013.jpg, SkyBiometry, 2.139095, 22.203604, error - archivo incorrecto para Precision, 21.993164, jpg
+1Âº, BioID_0014.jpg, SkyBiometry, 1.8119394, 16.27882, error - archivo incorrecto para Precision, 21.920898, jpg
+1Âº, BioID_0015.jpg, SkyBiometry, 1.3295944, 22.671568, error - archivo incorrecto para Precision, 21.816406, jpg
+1Âº, BioID_0016.jpg, SkyBiometry, 1.9922944, error - archivo incorrecto para Precision, error - archivo incorrecto para Precision, 18.302734, jpg
+1Âº, BioID_0017.jpg, SkyBiometry, 2.0510147, 2.0, error - archivo incorrecto para Precision, 18.594727, jpg
+1Âº, BioID_0018.jpg, SkyBiometry, 2.2020097, 5.0, error - archivo incorrecto para Precision, 22.86621, jpg
+1Âº, BioID_0019.jpg, SkyBiometry, 2.2984786, 2.828427, error - archivo incorrecto para Precision, 24.311523, jpg
+1Âº, BioID_0020.jpg, SkyBiometry, 1.9167969, 1.4142135, error - archivo incorrecto para Precision, 24.569336, jpg
+1Âº, BioID_0021.jpg, SkyBiometry, 2.4201133, 1.4142135, error - archivo incorrecto para Precision, 24.835938, jpg
+1Âº, BioID_0022.jpg, SkyBiometry, 1.5896412, 2.236068, error - archivo incorrecto para Precision, 24.807617, jpg
+1Âº, BioID_0023.jpg, SkyBiometry, 1.8203279, 1.0, error - archivo incorrecto para Precision, 25.745117, jpg
+1Âº, BioID_0024.jpg, SkyBiometry, 2.2103982, 1.4142135, error - archivo incorrecto para Precision, 25.074219, jpg
+1Âº, BioID_0025.jpg, SkyBiometry, 1.8790482, 2.828427, error - archivo incorrecto para Precision, 14.457031, jpg
+1Âº, BioID_0026.jpg, SkyBiometry, 2.1181235, 2.236068, error - archivo incorrecto para Precision, 15.537109, jpg
+1Âº, BioID_0027.jpg, SkyBiometry, 1.8287165, 2.236068, error - archivo incorrecto para Precision, 17.082031, jpg
+1Âº, BioID_0028.jpg, SkyBiometry, 2.4998052, 1.0, error - archivo incorrecto para Precision, 16.546875, jpg
+1Âº, BioID_0029.jpg, SkyBiometry, 1.5225323, 2.236068, error - archivo incorrecto para Precision, 16.63086, jpg
+1Âº, BioID_0030.jpg, SkyBiometry, 1.6106128, 2.236068, error - archivo incorrecto para Precision, 16.469727, jpg
+1Âº, BioID_0031.jpg, SkyBiometry, 1.8371052, 2.236068, error - archivo incorrecto para Precision, 16.368164, jpg
+1Âº, BioID_0032.jpg, SkyBiometry, 3.5399926, 1.4142135, error - archivo incorrecto para Precision, 16.195313, jpg
+1Âº, BioID_0033.jpg, SkyBiometry, 2.9485958, 2.0, error - archivo incorrecto para Precision, 15.928711, jpg
+1Âº, BioID_0034.jpg, SkyBiometry, 2.0510147, 2.0, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0035.jpg, SkyBiometry, 2.0426261, 3.1622777, error - archivo incorrecto para Precision, 15.762695, jpg
+1Âº, BioID_0036.jpg, SkyBiometry, 1.711276, 1.0, error - archivo incorrecto para Precision, 15.116211, jpg
+1Âº, BioID_0037.jpg, SkyBiometry, 2.3530045, 1.0, error - archivo incorrecto para Precision, 15.091797, jpg
+1Âº, BioID_0038.jpg, SkyBiometry, 1.7993565, 2.236068, error - archivo incorrecto para Precision, 15.859375, jpg
+1Âº, BioID_0039.jpg, SkyBiometry, 2.8185723, 2.236068, error - archivo incorrecto para Precision, 15.810547, jpg
+1Âº, BioID_0040.jpg, SkyBiometry, 1.392509, 1.4142135, error - archivo incorrecto para Precision, 15.34082, jpg
+1Âº, BioID_0041.jpg, SkyBiometry, 1.9000198, 2.236068, error - archivo incorrecto para Precision, 15.602539, jpg
+1Âº, BioID_0042.jpg, SkyBiometry, 1.8119394, 2.0, error - archivo incorrecto para Precision, 15.364258, jpg
+1Âº, BioID_0043.jpg, SkyBiometry, 1.4680064, 3.6055512, error - archivo incorrecto para Precision, 15.910156, jpg
+1Âº, BioID_0044.jpg, SkyBiometry, 1.9000198, 1.4142135, error - archivo incorrecto para Precision, 14.995117, jpg
+1Âº, BioID_0045.jpg, SkyBiometry, 1.7322476, 2.0, error - archivo incorrecto para Precision, 14.691406, jpg
+1Âº, BioID_0046.jpg, SkyBiometry, 2.0510147, 3.0, error - archivo incorrecto para Precision, 16.53711, jpg
+1Âº, BioID_0047.jpg, SkyBiometry, 2.3823647, 1.4142135, error - archivo incorrecto para Precision, 17.785156, jpg
+1Âº, BioID_0048.jpg, SkyBiometry, 2.277507, 2.236068, error - archivo incorrecto para Precision, 17.453125, jpg
+1Âº, BioID_0049.jpg, SkyBiometry, 2.4201133, 2.236068, error - archivo incorrecto para Precision, 17.314453, jpg
+1Âº, BioID_0050.jpg, SkyBiometry, 1.7574134, 2.0, error - archivo incorrecto para Precision, 22.249023, jpg
+1Âº, BioID_0051.jpg, SkyBiometry, 2.3991418, 4.1231055, error - archivo incorrecto para Precision, 22.047852, jpg
+1Âº, BioID_0052.jpg, SkyBiometry, 1.7280532, 4.472136, error - archivo incorrecto para Precision, 22.344727, jpg
+1Âº, BioID_0053.jpg, SkyBiometry, 1.8706596, 4.472136, error - archivo incorrecto para Precision, 23.060547, jpg
+1Âº, BioID_0054.jpg, SkyBiometry, 1.9126027, 5.0, error - archivo incorrecto para Precision, 23.248047, jpg
+1Âº, BioID_0055.jpg, SkyBiometry, 2.1474836, 6.3245554, error - archivo incorrecto para Precision, 20.226563, jpg
+1Âº, BioID_0056.jpg, SkyBiometry, 1.669333, 5.8309517, error - archivo incorrecto para Precision, 19.010742, jpg
+1Âº, BioID_0057.jpg, SkyBiometry, 1.7825792, 2.236068, error - archivo incorrecto para Precision, 20.30371, jpg
+1Âº, BioID_0058.jpg, SkyBiometry, 2.1894267, 3.6055512, error - archivo incorrecto para Precision, 20.613281, jpg
+1Âº, BioID_0059.jpg, SkyBiometry, 1.6525558, 3.6055512, error - archivo incorrecto para Precision, 21.139648, jpg
+1Âº, BioID_0060.jpg, SkyBiometry, 1.8790482, 4.0, error - archivo incorrecto para Precision, 21.017578, jpg
+1Âº, BioID_0061.jpg, SkyBiometry, 1.6819159, 1.0, error - archivo incorrecto para Precision, 20.74414, jpg
+1Âº, BioID_0062.jpg, SkyBiometry, 1.9126027, 3.1622777, error - archivo incorrecto para Precision, 19.97461, jpg
+1Âº, BioID_0063.jpg, SkyBiometry, 2.7095203, 5.0990195, error - archivo incorrecto para Precision, 20.560547, jpg
+1Âº, BioID_0064.jpg, SkyBiometry, 1.9881, 4.1231055, error - archivo incorrecto para Precision, 20.063477, jpg
+1Âº, BioID_0065.jpg, SkyBiometry, 3.3302774, 3.0, error - archivo incorrecto para Precision, 20.195313, jpg
+1Âº, BioID_0066.jpg, SkyBiometry, 3.1121736, 1.0, error - archivo incorrecto para Precision, 20.341797, jpg
+1Âº, BioID_0067.jpg, SkyBiometry, 3.779068, 2.236068, error - archivo incorrecto para Precision, 20.948242, jpg
+1Âº, BioID_0068.jpg, SkyBiometry, 2.4914167, 4.0, error - archivo incorrecto para Precision, 21.054688, jpg
+1Âº, BioID_0069.jpg, SkyBiometry, 2.3781703, 35.846897, error - archivo incorrecto para Precision, 21.067383, jpg
+1Âº, BioID_0070.jpg, SkyBiometry, 3.4393294, 4.1231055, error - archivo incorrecto para Precision, 21.001953, jpg
+1Âº, BioID_0071.jpg, SkyBiometry, 2.2691185, 3.6055512, error - archivo incorrecto para Precision, 21.8125, jpg
+1Âº, BioID_0072.jpg, SkyBiometry, 1.8371052, 5.3851647, error - archivo incorrecto para Precision, 22.425781, jpg
+1Âº, BioID_0073.jpg, SkyBiometry, 3.7497077, 2.236068, error - archivo incorrecto para Precision, 21.523438, jpg
+1Âº, BioID_0074.jpg, SkyBiometry, 3.380609, 1.0, error - archivo incorrecto para Precision, 21.66504, jpg
+1Âº, BioID_0075.jpg, SkyBiometry, 1.9293798, 3.1622777, error - archivo incorrecto para Precision, 21.253906, jpg
+1Âº, BioID_0076.jpg, SkyBiometry, 1.6315843, 5.8309517, error - archivo incorrecto para Precision, 15.52832, jpg
+1Âº, BioID_0077.jpg, SkyBiometry, 1.5686697, 5.3851647, error - archivo incorrecto para Precision, 15.920898, jpg
+1Âº, BioID_0078.jpg, SkyBiometry, 1.3505659, 3.1622777, error - archivo incorrecto para Precision, 16.164063, jpg
+1Âº, BioID_0079.jpg, SkyBiometry, 1.3086228, 3.6055512, error - archivo incorrecto para Precision, 16.044922, jpg
+1Âº, BioID_0080.jpg, SkyBiometry, 1.5099494, 3.1622777, error - archivo incorrecto para Precision, 15.923828, jpg
+1Âº, BioID_0081.jpg, SkyBiometry, 1.3128171, 2.828427, error - archivo incorrecto para Precision, 15.902344, jpg
+1Âº, BioID_0082.jpg, SkyBiometry, 2.3488102, 5.8309517, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0083.jpg, SkyBiometry, 2.0803747, 5.0990195, error - archivo incorrecto para Precision, 16.08789, jpg
+1Âº, BioID_0084.jpg, SkyBiometry, 1.5476981, 2.236068, error - archivo incorrecto para Precision, 15.886719, jpg
+1Âº, BioID_0085.jpg, SkyBiometry, 1.8203279, 6.3245554, error - archivo incorrecto para Precision, 15.874023, jpg
+1Âº, BioID_0086.jpg, SkyBiometry, 1.5686697, 3.1622777, error - archivo incorrecto para Precision, 15.769531, jpg
+1Âº, BioID_0087.jpg, SkyBiometry, 1.5099494, 4.472136, error - archivo incorrecto para Precision, 15.893555, jpg
+1Âº, BioID_0088.jpg, SkyBiometry, 1.9084083, 2.828427, error - archivo incorrecto para Precision, 15.878906, jpg
+1Âº, BioID_0089.jpg, SkyBiometry, 2.801795, 2.236068, error - archivo incorrecto para Precision, 16.176758, jpg
+1Âº, BioID_0090.jpg, SkyBiometry, 2.8982642, 1.0, error - archivo incorrecto para Precision, 18.760742, jpg
+1Âº, BioID_0091.jpg, SkyBiometry, 1.9503514, 2.828427, error - archivo incorrecto para Precision, 18.506836, jpg
+1Âº, BioID_0092.jpg, SkyBiometry, 2.0887635, 2.236068, error - archivo incorrecto para Precision, 18.338867, jpg
+1Âº, BioID_0093.jpg, SkyBiometry, 2.7808235, 2.236068, error - archivo incorrecto para Precision, 18.586914, jpg
+1Âº, BioID_0094.jpg, SkyBiometry, 2.7388804, 3.6055512, error - archivo incorrecto para Precision, 18.576172, jpg
+1Âº, BioID_0095.jpg, SkyBiometry, 2.1307065, 5.8309517, error - archivo incorrecto para Precision, 18.927734, jpg
+1Âº, BioID_0096.jpg, SkyBiometry, 1.9629343, 5.3851647, error - archivo incorrecto para Precision, 18.919922, jpg
+1Âº, BioID_0097.jpg, SkyBiometry, 2.5417483, 3.1622777, error - archivo incorrecto para Precision, 19.106445, jpg
+1Âº, BioID_0011.jpg, OpenCV, 0.45717913, 113.31814, error - archivo incorrecto para Precision, 21.817383, jpg
+1Âº, BioID_0012.jpg, OpenCV, 0.6123684, 108.68762, error - archivo incorrecto para Precision, 21.493164, jpg
+1Âº, BioID_0013.jpg, OpenCV, 0.46976206, 109.38464, error - archivo incorrecto para Precision, 21.993164, jpg
+1Âº, BioID_0014.jpg, OpenCV, 0.4404019, 115.83609, error - archivo incorrecto para Precision, 21.920898, jpg
+1Âº, BioID_0015.jpg, OpenCV, 0.49073356, 130.08075, error - archivo incorrecto para Precision, 21.816406, jpg
+1Âº, BioID_0016.jpg, OpenCV, 0.39007026, 118.96218, error - archivo incorrecto para Precision, 18.302734, jpg
+1Âº, BioID_0017.jpg, OpenCV, 0.36071014, 116.73046, error - archivo incorrecto para Precision, 18.594727, jpg
+1Âº, BioID_0018.jpg, OpenCV, 0.39845887, 127.141655, error - archivo incorrecto para Precision, 22.86621, jpg
+1Âº, BioID_0019.jpg, OpenCV, 0.4110418, 105.15227, error - archivo incorrecto para Precision, 24.311523, jpg
+1Âº, BioID_0020.jpg, OpenCV, 0.4110418, 104.62313, error - archivo incorrecto para Precision, 24.569336, jpg
+1Âº, BioID_0021.jpg, OpenCV, 0.4194304, 110.788086, error - archivo incorrecto para Precision, 24.835938, jpg
+1Âº, BioID_0022.jpg, OpenCV, 0.4110418, 112.68097, error - archivo incorrecto para Precision, 24.807617, jpg
+1Âº, BioID_0023.jpg, OpenCV, 0.4404019, 107.042046, error - archivo incorrecto para Precision, 25.745117, jpg
+1Âº, BioID_0024.jpg, OpenCV, 0.4194304, 114.90866, error - archivo incorrecto para Precision, 25.074219, jpg
+1Âº, BioID_0025.jpg, OpenCV, 0.39007026, 117.72001, error - archivo incorrecto para Precision, 14.457031, jpg
+1Âº, BioID_0026.jpg, OpenCV, 0.39845887, 110.85576, error - archivo incorrecto para Precision, 15.537109, jpg
+1Âº, BioID_0027.jpg, OpenCV, 0.4110418, 84.50444, error - archivo incorrecto para Precision, 17.082031, jpg
+1Âº, BioID_0028.jpg, OpenCV, 0.4194304, 109.77249, error - archivo incorrecto para Precision, 16.546875, jpg
+1Âº, BioID_0029.jpg, OpenCV, 0.427819, 105.546196, error - archivo incorrecto para Precision, 16.63086, jpg
+1Âº, BioID_0030.jpg, OpenCV, 0.4026532, 108.24047, error - archivo incorrecto para Precision, 16.469727, jpg
+1Âº, BioID_0031.jpg, OpenCV, 0.39007026, 111.41364, error - archivo incorrecto para Precision, 16.368164, jpg
+1Âº, BioID_0032.jpg, OpenCV, 0.39007026, 108.78419, error - archivo incorrecto para Precision, 16.195313, jpg
+1Âº, BioID_0033.jpg, OpenCV, 0.46976206, 119.36499, error - archivo incorrecto para Precision, 15.928711, jpg
+1Âº, BioID_0034.jpg, OpenCV, 0.3187671, 117.66053, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0035.jpg, OpenCV, 0.38168165, 113.74094, error - archivo incorrecto para Precision, 15.762695, jpg
+1Âº, BioID_0036.jpg, OpenCV, 0.6081741, 122.641754, error - archivo incorrecto para Precision, 15.116211, jpg
+1Âº, BioID_0037.jpg, OpenCV, 0.56203675, 119.03781, error - archivo incorrecto para Precision, 15.091797, jpg
+1Âº, BioID_0038.jpg, OpenCV, 0.37748736, 107.912, error - archivo incorrecto para Precision, 15.859375, jpg
+1Âº, BioID_0039.jpg, OpenCV, 0.36909875, 110.98198, error - archivo incorrecto para Precision, 15.810547, jpg
+1Âº, BioID_0040.jpg, OpenCV, 0.35232154, 126.210144, error - archivo incorrecto para Precision, 15.34082, jpg
+1Âº, BioID_0041.jpg, OpenCV, 0.36071014, 116.6619, error - archivo incorrecto para Precision, 15.602539, jpg
+1Âº, BioID_0042.jpg, OpenCV, 0.38168165, 120.9504, error - archivo incorrecto para Precision, 15.364258, jpg
+1Âº, BioID_0043.jpg, OpenCV, 0.36909875, 122.44999, error - archivo incorrecto para Precision, 15.910156, jpg
+1Âº, BioID_0044.jpg, OpenCV, 0.38168165, 120.92973, error - archivo incorrecto para Precision, 14.995117, jpg
+1Âº, BioID_0045.jpg, OpenCV, 0.37748736, 125.21981, error - archivo incorrecto para Precision, 14.691406, jpg
+1Âº, BioID_0046.jpg, OpenCV, 0.39007026, 120.54045, error - archivo incorrecto para Precision, 16.53711, jpg
+1Âº, BioID_0047.jpg, OpenCV, 0.39845887, 105.47511, error - archivo incorrecto para Precision, 17.785156, jpg
+1Âº, BioID_0048.jpg, OpenCV, 0.38168165, 101.65137, error - archivo incorrecto para Precision, 17.453125, jpg
+1Âº, BioID_0049.jpg, OpenCV, 0.39007026, 99.0404, error - archivo incorrecto para Precision, 17.314453, jpg
+1Âº, BioID_0050.jpg, OpenCV, 0.5200937, 114.28473, error - archivo incorrecto para Precision, 22.249023, jpg
+1Âº, BioID_0051.jpg, OpenCV, 0.4026532, 113.216606, error - archivo incorrecto para Precision, 22.047852, jpg
+1Âº, BioID_0052.jpg, OpenCV, 0.427819, 119.64113, error - archivo incorrecto para Precision, 22.344727, jpg
+1Âº, BioID_0053.jpg, OpenCV, 0.15099494, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.060547, jpg
+1Âº, BioID_0054.jpg, OpenCV, 0.13002342, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.248047, jpg
+1Âº, BioID_0055.jpg, OpenCV, 0.4404019, 126.06348, error - archivo incorrecto para Precision, 20.226563, jpg
+1Âº, BioID_0056.jpg, OpenCV, 0.49912217, 109.201645, error - archivo incorrecto para Precision, 19.010742, jpg
+1Âº, BioID_0057.jpg, OpenCV, 0.48653927, 102.59142, error - archivo incorrecto para Precision, 20.30371, jpg
+1Âº, BioID_0058.jpg, OpenCV, 0.49073356, 116.21101, error - archivo incorrecto para Precision, 20.613281, jpg
+1Âº, BioID_0059.jpg, OpenCV, 0.15099494, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.139648, jpg
+1Âº, BioID_0060.jpg, OpenCV, 0.13002342, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.017578, jpg
+1Âº, BioID_0061.jpg, OpenCV, 0.15938355, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 20.74414, jpg
+1Âº, BioID_0062.jpg, OpenCV, 0.49073356, 121.45781, error - archivo incorrecto para Precision, 19.97461, jpg
+1Âº, BioID_0063.jpg, OpenCV, 0.45717913, 112.27199, error - archivo incorrecto para Precision, 20.560547, jpg
+1Âº, BioID_0064.jpg, OpenCV, 0.5075108, 109.65856, error - archivo incorrecto para Precision, 20.063477, jpg
+1Âº, BioID_0065.jpg, OpenCV, 0.6123684, 113.600174, error - archivo incorrecto para Precision, 20.195313, jpg
+1Âº, BioID_0066.jpg, OpenCV, 0.44879052, 123.71338, error - archivo incorrecto para Precision, 20.341797, jpg
+1Âº, BioID_0067.jpg, OpenCV, 0.5284823, 115.43397, error - archivo incorrecto para Precision, 20.948242, jpg
+1Âº, BioID_0068.jpg, OpenCV, 0.46976206, 114.56003, error - archivo incorrecto para Precision, 21.054688, jpg
+1Âº, BioID_0069.jpg, OpenCV, 0.4404019, 120.01666, error - archivo incorrecto para Precision, 21.067383, jpg
+1Âº, BioID_0070.jpg, OpenCV, 0.427819, 121.313644, error - archivo incorrecto para Precision, 21.001953, jpg
+1Âº, BioID_0071.jpg, OpenCV, 0.427819, 114.236595, error - archivo incorrecto para Precision, 21.8125, jpg
+1Âº, BioID_0072.jpg, OpenCV, 0.109051906, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 22.425781, jpg
+1Âº, BioID_0073.jpg, OpenCV, 0.53267664, 112.36102, error - archivo incorrecto para Precision, 21.523438, jpg
+1Âº, BioID_0074.jpg, OpenCV, 0.427819, 111.82576, error - archivo incorrecto para Precision, 21.66504, jpg
+1Âº, BioID_0075.jpg, OpenCV, 0.4320133, 118.595955, error - archivo incorrecto para Precision, 21.253906, jpg
+1Âº, BioID_0076.jpg, OpenCV, 0.39845887, 127.581345, error - archivo incorrecto para Precision, 15.52832, jpg
+1Âº, BioID_0077.jpg, OpenCV, 0.4320133, 123.16656, error - archivo incorrecto para Precision, 15.920898, jpg
+1Âº, BioID_0078.jpg, OpenCV, 0.45298484, 114.0, error - archivo incorrecto para Precision, 16.164063, jpg
+1Âº, BioID_0079.jpg, OpenCV, 0.48653927, 114.01754, error - archivo incorrecto para Precision, 16.044922, jpg
+1Âº, BioID_0080.jpg, OpenCV, 0.49912217, 118.004234, error - archivo incorrecto para Precision, 15.923828, jpg
+1Âº, BioID_0081.jpg, OpenCV, 0.48234496, 118.15244, error - archivo incorrecto para Precision, 15.902344, jpg
+1Âº, BioID_0082.jpg, OpenCV, 0.49073356, 118.270874, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0083.jpg, OpenCV, 0.48653927, 114.03947, error - archivo incorrecto para Precision, 16.08789, jpg
+1Âº, BioID_0084.jpg, OpenCV, 0.50331646, 115.212845, error - archivo incorrecto para Precision, 15.886719, jpg
+1Âº, BioID_0085.jpg, OpenCV, 0.49912217, 116.34862, error - archivo incorrecto para Precision, 15.874023, jpg
+1Âº, BioID_0086.jpg, OpenCV, 0.5117051, 114.35471, error - archivo incorrecto para Precision, 15.769531, jpg
+1Âº, BioID_0087.jpg, OpenCV, 0.5284823, 119.33985, error - archivo incorrecto para Precision, 15.893555, jpg
+1Âº, BioID_0088.jpg, OpenCV, 0.49912217, 117.426575, error - archivo incorrecto para Precision, 15.878906, jpg
+1Âº, BioID_0089.jpg, OpenCV, 0.5536481, 114.0, error - archivo incorrecto para Precision, 16.176758, jpg
+1Âº, BioID_0090.jpg, OpenCV, 0.37748736, 114.47707, error - archivo incorrecto para Precision, 18.760742, jpg
+1Âº, BioID_0091.jpg, OpenCV, 0.4194304, 111.32835, error - archivo incorrecto para Precision, 18.506836, jpg
+1Âº, BioID_0092.jpg, OpenCV, 0.39007026, 112.94689, error - archivo incorrecto para Precision, 18.338867, jpg
+1Âº, BioID_0093.jpg, OpenCV, 0.29360127, 114.49017, error - archivo incorrecto para Precision, 18.586914, jpg
+1Âº, BioID_0094.jpg, OpenCV, 0.28940699, 124.0645, error - archivo incorrecto para Precision, 18.576172, jpg
+1Âº, BioID_0095.jpg, OpenCV, 0.3271557, 107.51744, error - archivo incorrecto para Precision, 18.927734, jpg
+1Âº, BioID_0096.jpg, OpenCV, 0.36071014, 102.4207, error - archivo incorrecto para Precision, 18.919922, jpg
+1Âº, BioID_0097.jpg, OpenCV, 0.38168165, 122.72327, error - archivo incorrecto para Precision, 19.106445, jpg
+1Âº, BioID_0011.jpg, GooglePlay, 0.8388608, 4.1231055, error - archivo incorrecto para Precision, 21.817383, jpg
+1Âº, BioID_0012.jpg, GooglePlay, 0.06291456, 6.0827627, error - archivo incorrecto para Precision, 21.493164, jpg
+1Âº, BioID_0013.jpg, GooglePlay, 0.058720257, 5.0, error - archivo incorrecto para Precision, 21.993164, jpg
+1Âº, BioID_0014.jpg, GooglePlay, 0.07130317, 8.602325, error - archivo incorrecto para Precision, 21.920898, jpg
+1Âº, BioID_0015.jpg, GooglePlay, 0.058720257, 7.071068, error - archivo incorrecto para Precision, 21.816406, jpg
+1Âº, BioID_0016.jpg, GooglePlay, 0.05033165, 5.3851647, error - archivo incorrecto para Precision, 18.302734, jpg
+1Âº, BioID_0017.jpg, GooglePlay, 0.058720257, 6.3245554, error - archivo incorrecto para Precision, 18.594727, jpg
+1Âº, BioID_0018.jpg, GooglePlay, 0.06291456, 7.071068, error - archivo incorrecto para Precision, 22.86621, jpg
+1Âº, BioID_0019.jpg, GooglePlay, 0.058720257, 3.6055512, error - archivo incorrecto para Precision, 24.311523, jpg
+1Âº, BioID_0020.jpg, GooglePlay, 0.06291456, 4.1231055, error - archivo incorrecto para Precision, 24.569336, jpg
+1Âº, BioID_0021.jpg, GooglePlay, 0.079691775, 4.2426405, error - archivo incorrecto para Precision, 24.835938, jpg
+1Âº, BioID_0022.jpg, GooglePlay, 0.058720257, 4.1231055, error - archivo incorrecto para Precision, 24.807617, jpg
+1Âº, BioID_0023.jpg, GooglePlay, 0.09227469, 3.1622777, error - archivo incorrecto para Precision, 25.745117, jpg
+1Âº, BioID_0024.jpg, GooglePlay, 0.037748735, 4.472136, error - archivo incorrecto para Precision, 25.074219, jpg
+1Âº, BioID_0025.jpg, GooglePlay, 0.11324621, 5.0, error - archivo incorrecto para Precision, 14.457031, jpg
+1Âº, BioID_0026.jpg, GooglePlay, 0.13002342, 2.828427, error - archivo incorrecto para Precision, 15.537109, jpg
+1Âº, BioID_0027.jpg, GooglePlay, 0.2097152, 2.236068, error - archivo incorrecto para Precision, 17.082031, jpg
+1Âº, BioID_0028.jpg, GooglePlay, 0.046137344, 2.828427, error - archivo incorrecto para Precision, 16.546875, jpg
+1Âº, BioID_0029.jpg, GooglePlay, 0.079691775, 2.828427, error - archivo incorrecto para Precision, 16.63086, jpg
+1Âº, BioID_0030.jpg, GooglePlay, 0.06291456, 2.828427, error - archivo incorrecto para Precision, 16.469727, jpg
+1Âº, BioID_0031.jpg, GooglePlay, 0.058720257, 2.236068, error - archivo incorrecto para Precision, 16.368164, jpg
+1Âº, BioID_0032.jpg, GooglePlay, 0.06291456, 3.1622777, error - archivo incorrecto para Precision, 16.195313, jpg
+1Âº, BioID_0033.jpg, GooglePlay, 0.117440514, 2.236068, error - archivo incorrecto para Precision, 15.928711, jpg
+1Âº, BioID_0034.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0035.jpg, GooglePlay, 0.07130317, 3.6055512, error - archivo incorrecto para Precision, 15.762695, jpg
+1Âº, BioID_0036.jpg, GooglePlay, 0.1006633, 2.828427, error - archivo incorrecto para Precision, 15.116211, jpg
+1Âº, BioID_0037.jpg, GooglePlay, 0.07130317, 1.4142135, error - archivo incorrecto para Precision, 15.091797, jpg
+1Âº, BioID_0038.jpg, GooglePlay, 0.058720257, 2.236068, error - archivo incorrecto para Precision, 15.859375, jpg
+1Âº, BioID_0039.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 15.810547, jpg
+1Âº, BioID_0040.jpg, GooglePlay, 0.05033165, 5.3851647, error - archivo incorrecto para Precision, 15.34082, jpg
+1Âº, BioID_0041.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 15.602539, jpg
+1Âº, BioID_0042.jpg, GooglePlay, 0.037748735, 3.1622777, error - archivo incorrecto para Precision, 15.364258, jpg
+1Âº, BioID_0043.jpg, GooglePlay, 0.037748735, 5.3851647, error - archivo incorrecto para Precision, 15.910156, jpg
+1Âº, BioID_0044.jpg, GooglePlay, 0.037748735, 3.1622777, error - archivo incorrecto para Precision, 14.995117, jpg
+1Âº, BioID_0045.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 14.691406, jpg
+1Âº, BioID_0046.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 16.53711, jpg
+1Âº, BioID_0047.jpg, GooglePlay, 0.046137344, 3.0, error - archivo incorrecto para Precision, 17.785156, jpg
+1Âº, BioID_0048.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 17.453125, jpg
+1Âº, BioID_0049.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 17.314453, jpg
+1Âº, BioID_0050.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 22.249023, jpg
+1Âº, BioID_0051.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 22.047852, jpg
+1Âº, BioID_0052.jpg, GooglePlay, 0.05033165, 4.0, error - archivo incorrecto para Precision, 22.344727, jpg
+1Âº, BioID_0053.jpg, GooglePlay, 0.058720257, 1.0, error - archivo incorrecto para Precision, 23.060547, jpg
+1Âº, BioID_0054.jpg, GooglePlay, 0.04194304, 2.0, error - archivo incorrecto para Precision, 23.248047, jpg
+1Âº, BioID_0055.jpg, GooglePlay, 0.04194304, 6.0827627, error - archivo incorrecto para Precision, 20.226563, jpg
+1Âº, BioID_0056.jpg, GooglePlay, 0.04194304, 5.0990195, error - archivo incorrecto para Precision, 19.010742, jpg
+1Âº, BioID_0057.jpg, GooglePlay, 0.04194304, 3.0, error - archivo incorrecto para Precision, 20.30371, jpg
+1Âº, BioID_0058.jpg, GooglePlay, 0.04194304, 2.828427, error - archivo incorrecto para Precision, 20.613281, jpg
+1Âº, BioID_0059.jpg, GooglePlay, 0.04194304, 3.6055512, error - archivo incorrecto para Precision, 21.139648, jpg
+1Âº, BioID_0060.jpg, GooglePlay, 0.046137344, 3.6055512, error - archivo incorrecto para Precision, 21.017578, jpg
+1Âº, BioID_0061.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 20.74414, jpg
+1Âº, BioID_0062.jpg, GooglePlay, 0.05033165, 2.0, error - archivo incorrecto para Precision, 19.97461, jpg
+1Âº, BioID_0063.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 20.560547, jpg
+1Âº, BioID_0064.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 20.063477, jpg
+1Âº, BioID_0065.jpg, GooglePlay, 0.037748735, 2.828427, error - archivo incorrecto para Precision, 20.195313, jpg
+1Âº, BioID_0066.jpg, GooglePlay, 0.04194304, 1.0, error - archivo incorrecto para Precision, 20.341797, jpg
+1Âº, BioID_0067.jpg, GooglePlay, 0.04194304, 2.828427, error - archivo incorrecto para Precision, 20.948242, jpg
+1Âº, BioID_0068.jpg, GooglePlay, 0.04194304, 2.828427, error - archivo incorrecto para Precision, 21.054688, jpg
+1Âº, BioID_0069.jpg, GooglePlay, 0.05033165, 8.062258, error - archivo incorrecto para Precision, 21.067383, jpg
+1Âº, BioID_0070.jpg, GooglePlay, 0.07130317, 3.6055512, error - archivo incorrecto para Precision, 21.001953, jpg
+1Âº, BioID_0071.jpg, GooglePlay, 0.05033165, 2.0, error - archivo incorrecto para Precision, 21.8125, jpg
+1Âº, BioID_0072.jpg, GooglePlay, 0.058720257, 4.0, error - archivo incorrecto para Precision, 22.425781, jpg
+1Âº, BioID_0073.jpg, GooglePlay, 0.06291456, 1.4142135, error - archivo incorrecto para Precision, 21.523438, jpg
+1Âº, BioID_0074.jpg, GooglePlay, 0.058720257, 3.1622777, error - archivo incorrecto para Precision, 21.66504, jpg
+1Âº, BioID_0075.jpg, GooglePlay, 0.05033165, 4.0, error - archivo incorrecto para Precision, 21.253906, jpg
+1Âº, BioID_0076.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 15.52832, jpg
+1Âº, BioID_0077.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 15.920898, jpg
+1Âº, BioID_0078.jpg, GooglePlay, 0.058720257, 4.472136, error - archivo incorrecto para Precision, 16.164063, jpg
+1Âº, BioID_0079.jpg, GooglePlay, 0.06291456, 5.0, error - archivo incorrecto para Precision, 16.044922, jpg
+1Âº, BioID_0080.jpg, GooglePlay, 0.05033165, 4.0, error - archivo incorrecto para Precision, 15.923828, jpg
+1Âº, BioID_0081.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 15.902344, jpg
+1Âº, BioID_0082.jpg, GooglePlay, 0.06710886, 3.0, error - archivo incorrecto para Precision, 15.719727, jpg
+1Âº, BioID_0083.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 16.08789, jpg
+1Âº, BioID_0084.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 15.886719, jpg
+1Âº, BioID_0085.jpg, GooglePlay, 0.046137344, 5.0990195, error - archivo incorrecto para Precision, 15.874023, jpg
+1Âº, BioID_0086.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 15.769531, jpg
+1Âº, BioID_0087.jpg, GooglePlay, 0.06291456, 3.0, error - archivo incorrecto para Precision, 15.893555, jpg
+1Âº, BioID_0088.jpg, GooglePlay, 0.05033165, 4.1231055, error - archivo incorrecto para Precision, 15.878906, jpg
+1Âº, BioID_0089.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 16.176758, jpg
+1Âº, BioID_0090.jpg, GooglePlay, 0.06291456, 1.4142135, error - archivo incorrecto para Precision, 18.760742, jpg
+1Âº, BioID_0091.jpg, GooglePlay, 0.058720257, 2.0, error - archivo incorrecto para Precision, 18.506836, jpg
+1Âº, BioID_0092.jpg, GooglePlay, 0.05033165, 1.4142135, error - archivo incorrecto para Precision, 18.338867, jpg
+1Âº, BioID_0093.jpg, GooglePlay, 0.05033165, 1.0, error - archivo incorrecto para Precision, 18.586914, jpg
+1Âº, BioID_0094.jpg, GooglePlay, 0.05033165, 1.4142135, error - archivo incorrecto para Precision, 18.576172, jpg
+1Âº, BioID_0095.jpg, GooglePlay, 0.05033165, 1.0, error - archivo incorrecto para Precision, 18.927734, jpg
+1Âº, BioID_0096.jpg, GooglePlay, 0.037748735, 1.4142135, error - archivo incorrecto para Precision, 18.919922, jpg
+1Âº, BioID_0097.jpg, GooglePlay, 0.05033165, 1.0, error - archivo incorrecto para Precision, 19.106445, jpg
+2Âº, BioID_0011.jpg, FaceRect, 2.7304919, 113.71895, error - archivo incorrecto para Precision, 21.817383, jpg
+2Âº, BioID_0012.jpg, FaceRect, 1.4931722, 118.680244, error - archivo incorrecto para Precision, 21.493164, jpg
+2Âº, BioID_0013.jpg, FaceRect, 1.3505659, 105.702415, error - archivo incorrecto para Precision, 21.993164, jpg
+2Âº, BioID_0014.jpg, FaceRect, 1.7699963, 267.71066, error - archivo incorrecto para Precision, 21.920898, jpg
+2Âº, BioID_0015.jpg, FaceRect, 1.2918457, 264.57892, error - archivo incorrecto para Precision, 21.816406, jpg
+2Âº, BioID_0016.jpg, FaceRect, 1.132462, 121.65525, error - archivo incorrecto para Precision, 18.302734, jpg
+2Âº, BioID_0017.jpg, FaceRect, 1.1911824, 119.40687, error - archivo incorrecto para Precision, 18.594727, jpg
+2Âº, BioID_0018.jpg, FaceRect, 1.2079595, 125.39936, error - archivo incorrecto para Precision, 22.86621, jpg
+2Âº, BioID_0019.jpg, FaceRect, 1.186988, 107.07007, error - archivo incorrecto para Precision, 24.311523, jpg
+2Âº, BioID_0020.jpg, FaceRect, 1.2289311, 104.62313, error - archivo incorrecto para Precision, 24.569336, jpg
+2Âº, BioID_0021.jpg, FaceRect, 1.1702108, 110.45361, error - archivo incorrecto para Precision, 24.835938, jpg
+2Âº, BioID_0022.jpg, FaceRect, 1.186988, 114.05701, error - archivo incorrecto para Precision, 24.807617, jpg
+2Âº, BioID_0023.jpg, FaceRect, 1.392509, 106.174385, error - archivo incorrecto para Precision, 25.745117, jpg
+2Âº, BioID_0024.jpg, FaceRect, 1.2079595, 115.965515, error - archivo incorrecto para Precision, 25.074219, jpg
+2Âº, BioID_0025.jpg, FaceRect, 0.9395241, 144.3087, error - archivo incorrecto para Precision, 14.457031, jpg
+2Âº, BioID_0026.jpg, FaceRect, 1.0779362, 115.1043, error - archivo incorrecto para Precision, 15.537109, jpg
+2Âº, BioID_0027.jpg, FaceRect, 1.1702108, 106.02358, error - archivo incorrecto para Precision, 17.082031, jpg
+2Âº, BioID_0028.jpg, FaceRect, 1.0192158, 110.63905, error - archivo incorrecto para Precision, 16.546875, jpg
+2Âº, BioID_0029.jpg, FaceRect, 0.9395241, 110.01818, error - archivo incorrecto para Precision, 16.63086, jpg
+2Âº, BioID_0030.jpg, FaceRect, 1.1576279, 110.47624, error - archivo incorrecto para Precision, 16.469727, jpg
+2Âº, BioID_0031.jpg, FaceRect, 1.1911824, 111.41364, error - archivo incorrecto para Precision, 16.368164, jpg
+2Âº, BioID_0032.jpg, FaceRect, 1.0192158, 106.32967, error - archivo incorrecto para Precision, 16.195313, jpg
+2Âº, BioID_0033.jpg, FaceRect, 1.0695475, 120.22063, error - archivo incorrecto para Precision, 15.928711, jpg
+2Âº, BioID_0034.jpg, FaceRect, 1.0024387, 118.511604, error - archivo incorrecto para Precision, 15.719727, jpg
+2Âº, BioID_0035.jpg, FaceRect, 0.99824435, 113.74094, error - archivo incorrecto para Precision, 15.762695, jpg
+2Âº, BioID_0036.jpg, FaceRect, 0.9227469, 121.24768, error - archivo incorrecto para Precision, 15.116211, jpg
+2Âº, BioID_0037.jpg, FaceRect, 1.2289311, 120.41595, error - archivo incorrecto para Precision, 15.091797, jpg
+2Âº, BioID_0038.jpg, FaceRect, 1.572864, 107.042046, error - archivo incorrecto para Precision, 15.859375, jpg
+2Âº, BioID_0039.jpg, FaceRect, 1.0695475, 109.60383, error - archivo incorrecto para Precision, 15.810547, jpg
+2Âº, BioID_0040.jpg, FaceRect, 0.9311355, 259.62473, error - archivo incorrecto para Precision, 15.34082, jpg
+2Âº, BioID_0041.jpg, FaceRect, 0.9479127, 117.13667, error - archivo incorrecto para Precision, 15.602539, jpg
+2Âº, BioID_0042.jpg, FaceRect, 0.9437184, 257.94766, error - archivo incorrecto para Precision, 15.364258, jpg
+2Âº, BioID_0043.jpg, FaceRect, 0.9479127, 122.44999, error - archivo incorrecto para Precision, 15.910156, jpg
+2Âº, BioID_0044.jpg, FaceRect, 1.0192158, 123.709335, error - archivo incorrecto para Precision, 14.995117, jpg
+2Âº, BioID_0045.jpg, FaceRect, 0.9479127, 126.751724, error - archivo incorrecto para Precision, 14.691406, jpg
+2Âº, BioID_0046.jpg, FaceRect, 1.7532191, 263.18054, error - archivo incorrecto para Precision, 16.53711, jpg
+2Âº, BioID_0047.jpg, FaceRect, 1.2918457, 227.84424, error - archivo incorrecto para Precision, 17.785156, jpg
+2Âº, BioID_0048.jpg, FaceRect, 1.2289311, 133.95895, error - archivo incorrecto para Precision, 17.453125, jpg
+2Âº, BioID_0049.jpg, FaceRect, 1.1366564, 130.04999, error - archivo incorrecto para Precision, 17.314453, jpg
+2Âº, BioID_0050.jpg, FaceRect, 1.3212057, 116.38728, error - archivo incorrecto para Precision, 22.249023, jpg
+2Âº, BioID_0051.jpg, FaceRect, 1.4302577, 150.86418, error - archivo incorrecto para Precision, 22.047852, jpg
+2Âº, BioID_0052.jpg, FaceRect, 1.6022241, 116.48176, error - archivo incorrecto para Precision, 22.344727, jpg
+2Âº, BioID_0053.jpg, FaceRect, 1.0401874, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.060547, jpg
+2Âº, BioID_0054.jpg, FaceRect, 1.5393096, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.248047, jpg
+2Âº, BioID_0055.jpg, FaceRect, 1.1072962, 250.14595, error - archivo incorrecto para Precision, 20.226563, jpg
+2Âº, BioID_0056.jpg, FaceRect, 1.3128171, 109.201645, error - archivo incorrecto para Precision, 19.010742, jpg
+2Âº, BioID_0057.jpg, FaceRect, 1.1492393, 107.563934, error - archivo incorrecto para Precision, 20.30371, jpg
+2Âº, BioID_0058.jpg, FaceRect, 2.2187867, 115.952576, error - archivo incorrecto para Precision, 20.613281, jpg
+2Âº, BioID_0059.jpg, FaceRect, 2.1181235, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.139648, jpg
+2Âº, BioID_0060.jpg, FaceRect, 1.1534336, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.017578, jpg
+2Âº, BioID_0061.jpg, FaceRect, 1.186988, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 20.74414, jpg
+2Âº, BioID_0062.jpg, FaceRect, 1.3128171, 121.75796, error - archivo incorrecto para Precision, 19.97461, jpg
+2Âº, BioID_0063.jpg, FaceRect, 2.2313697, 252.93675, error - archivo incorrecto para Precision, 20.560547, jpg
+2Âº, BioID_0064.jpg, FaceRect, 1.7867736, 114.49017, error - archivo incorrecto para Precision, 20.063477, jpg
+2Âº, BioID_0065.jpg, FaceRect, 1.4512292, 109.48059, error - archivo incorrecto para Precision, 20.195313, jpg
+2Âº, BioID_0066.jpg, FaceRect, 2.29009, 120.20815, error - archivo incorrecto para Precision, 20.341797, jpg
+2Âº, BioID_0067.jpg, FaceRect, 1.8916311, 117.64353, error - archivo incorrecto para Precision, 20.948242, jpg
+2Âº, BioID_0068.jpg, FaceRect, 1.3002342, 108.24047, error - archivo incorrecto para Precision, 21.054688, jpg
+2Âº, BioID_0069.jpg, FaceRect, 1.5812526, 254.80385, error - archivo incorrecto para Precision, 21.067383, jpg
+2Âº, BioID_0070.jpg, FaceRect, 1.7490247, 275.6175, error - archivo incorrecto para Precision, 21.001953, jpg
+2Âº, BioID_0071.jpg, FaceRect, 1.669333, 112.29426, error - archivo incorrecto para Precision, 21.8125, jpg
+2Âº, BioID_0072.jpg, FaceRect, 2.1013463, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 22.425781, jpg
+2Âº, BioID_0073.jpg, FaceRect, 1.4680064, 251.18121, error - archivo incorrecto para Precision, 21.523438, jpg
+2Âº, BioID_0074.jpg, FaceRect, 1.4008975, 253.94684, error - archivo incorrecto para Precision, 21.66504, jpg
+2Âº, BioID_0075.jpg, FaceRect, 2.248147, 117.65203, error - archivo incorrecto para Precision, 21.253906, jpg
+2Âº, BioID_0076.jpg, FaceRect, 1.4008975, 129.79985, error - archivo incorrecto para Precision, 15.52832, jpg
+2Âº, BioID_0077.jpg, FaceRect, 1.1492393, 122.67436, error - archivo incorrecto para Precision, 15.920898, jpg
+2Âº, BioID_0078.jpg, FaceRect, 1.2289311, 113.15918, error - archivo incorrecto para Precision, 16.164063, jpg
+2Âº, BioID_0079.jpg, FaceRect, 1.1576279, 114.54257, error - archivo incorrecto para Precision, 16.044922, jpg
+2Âº, BioID_0080.jpg, FaceRect, 1.4722008, 155.64703, error - archivo incorrecto para Precision, 15.923828, jpg
+2Âº, BioID_0081.jpg, FaceRect, 1.5183381, 160.97516, error - archivo incorrecto para Precision, 15.902344, jpg
+2Âº, BioID_0082.jpg, FaceRect, 1.241514, 120.74767, error - archivo incorrecto para Precision, 15.719727, jpg
+2Âº, BioID_0083.jpg, FaceRect, 0.98985577, 258.58847, error - archivo incorrecto para Precision, 16.08789, jpg
+2Âº, BioID_0084.jpg, FaceRect, 1.1198791, 154.32434, error - archivo incorrecto para Precision, 15.886719, jpg
+2Âº, BioID_0085.jpg, FaceRect, 1.0276045, 269.65164, error - archivo incorrecto para Precision, 15.874023, jpg
+2Âº, BioID_0086.jpg, FaceRect, 0.9772728, 113.59577, error - archivo incorrecto para Precision, 15.769531, jpg
+2Âº, BioID_0087.jpg, FaceRect, 0.9311355, 118.966385, error - archivo incorrecto para Precision, 15.893555, jpg
+2Âº, BioID_0088.jpg, FaceRect, 0.97307855, 117.18362, error - archivo incorrecto para Precision, 15.878906, jpg
+2Âº, BioID_0089.jpg, FaceRect, 1.807745, 148.66069, error - archivo incorrecto para Precision, 16.176758, jpg
+2Âº, BioID_0090.jpg, FaceRect, 1.4302577, 107.200745, error - archivo incorrecto para Precision, 18.760742, jpg
+2Âº, BioID_0091.jpg, FaceRect, 1.6106128, 112.27199, error - archivo incorrecto para Precision, 18.506836, jpg
+2Âº, BioID_0092.jpg, FaceRect, 1.4596177, 118.473625, error - archivo incorrecto para Precision, 18.338867, jpg
+2Âº, BioID_0093.jpg, FaceRect, 1.9126027, 116.70904, error - archivo incorrecto para Precision, 18.586914, jpg
+2Âº, BioID_0094.jpg, FaceRect, 1.3589545, 128.87592, error - archivo incorrecto para Precision, 18.576172, jpg
+2Âº, BioID_0095.jpg, FaceRect, 1.1408507, 113.03097, error - archivo incorrecto para Precision, 18.927734, jpg
+2Âº, BioID_0096.jpg, FaceRect, 1.421869, 111.83023, error - archivo incorrecto para Precision, 18.919922, jpg
+2Âº, BioID_0097.jpg, FaceRect, 1.5183381, 128.44453, error - archivo incorrecto para Precision, 19.106445, jpg
+2Âº, BioID_0011.jpg, SkyBiometry, 2.940207, 3.1622777, error - archivo incorrecto para Precision, 21.817383, jpg
+2Âº, BioID_0012.jpg, SkyBiometry, 2.2397583, 3.6055512, error - archivo incorrecto para Precision, 21.493164, jpg
+2Âº, BioID_0013.jpg, SkyBiometry, 2.1894267, 22.203604, error - archivo incorrecto para Precision, 21.993164, jpg
+2Âº, BioID_0014.jpg, SkyBiometry, 1.4931722, 16.27882, error - archivo incorrecto para Precision, 21.920898, jpg
+2Âº, BioID_0015.jpg, SkyBiometry, 2.332033, 22.671568, error - archivo incorrecto para Precision, 21.816406, jpg
+2Âº, BioID_0016.jpg, SkyBiometry, 1.560281, error - archivo incorrecto para Precision, error - archivo incorrecto para Precision, 18.302734, jpg
+2Âº, BioID_0017.jpg, SkyBiometry, 3.1079793, 2.0, error - archivo incorrecto para Precision, 18.594727, jpg
+2Âº, BioID_0018.jpg, SkyBiometry, 2.4788337, 5.0, error - archivo incorrecto para Precision, 22.86621, jpg
+2Âº, BioID_0019.jpg, SkyBiometry, 2.9318185, 2.828427, error - archivo incorrecto para Precision, 24.311523, jpg
+2Âº, BioID_0020.jpg, SkyBiometry, 2.8395438, 1.4142135, error - archivo incorrecto para Precision, 24.569336, jpg
+2Âº, BioID_0021.jpg, SkyBiometry, 3.3889976, 1.4142135, error - archivo incorrecto para Precision, 24.835938, jpg
+2Âº, BioID_0022.jpg, SkyBiometry, 2.428502, 2.236068, error - archivo incorrecto para Precision, 24.807617, jpg
+2Âº, BioID_0023.jpg, SkyBiometry, 2.5291653, 1.0, error - archivo incorrecto para Precision, 25.745117, jpg
+2Âº, BioID_0024.jpg, SkyBiometry, 1.6777216, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 25.074219, jpg
+2Âº, BioID_0025.jpg, SkyBiometry, 1.0863247, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 14.457031, jpg
+2Âº, BioID_0026.jpg, SkyBiometry, 0.8640266, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.537109, jpg
+2Âº, BioID_0027.jpg, SkyBiometry, 1.0359931, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 17.082031, jpg
+2Âº, BioID_0028.jpg, SkyBiometry, 1.3715374, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.546875, jpg
+2Âº, BioID_0029.jpg, SkyBiometry, 1.5518925, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.63086, jpg
+2Âº, BioID_0030.jpg, SkyBiometry, 1.0989076, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.469727, jpg
+2Âº, BioID_0031.jpg, SkyBiometry, 1.7406361, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.368164, jpg
+2Âº, BioID_0032.jpg, SkyBiometry, 1.7322476, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.195313, jpg
+2Âº, BioID_0033.jpg, SkyBiometry, 0.91016394, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.928711, jpg
+2Âº, BioID_0034.jpg, SkyBiometry, 0.8095007, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.719727, jpg
+2Âº, BioID_0035.jpg, SkyBiometry, 1.0569646, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.762695, jpg
+2Âº, BioID_0036.jpg, SkyBiometry, 1.4428406, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.116211, jpg
+2Âº, BioID_0037.jpg, SkyBiometry, 1.2205424, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.091797, jpg
+2Âº, BioID_0038.jpg, SkyBiometry, 0.79691774, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.859375, jpg
+2Âº, BioID_0039.jpg, SkyBiometry, 0.8304722, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.810547, jpg
+2Âº, BioID_0040.jpg, SkyBiometry, 0.8095007, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.34082, jpg
+2Âº, BioID_0041.jpg, SkyBiometry, 0.97307855, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.602539, jpg
+2Âº, BioID_0042.jpg, SkyBiometry, 1.1492393, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.364258, jpg
+2Âº, BioID_0043.jpg, SkyBiometry, 1.2708741, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.910156, jpg
+2Âº, BioID_0044.jpg, SkyBiometry, 0.8472494, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 14.995117, jpg
+2Âº, BioID_0045.jpg, SkyBiometry, 0.9604956, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 14.691406, jpg
+2Âº, BioID_0046.jpg, SkyBiometry, 1.1785995, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.53711, jpg
+2Âº, BioID_0047.jpg, SkyBiometry, 1.379926, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 17.785156, jpg
+2Âº, BioID_0048.jpg, SkyBiometry, 2.1600666, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 17.453125, jpg
+2Âº, BioID_0049.jpg, SkyBiometry, 1.0611589, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 17.314453, jpg
+2Âº, BioID_0050.jpg, SkyBiometry, 0.98985577, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 22.249023, jpg
+2Âº, BioID_0051.jpg, SkyBiometry, 1.5393096, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 22.047852, jpg
+2Âº, BioID_0052.jpg, SkyBiometry, 1.4722008, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 22.344727, jpg
+2Âº, BioID_0053.jpg, SkyBiometry, 1.5099494, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 23.060547, jpg
+2Âº, BioID_0054.jpg, SkyBiometry, 1.2289311, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 23.248047, jpg
+2Âº, BioID_0055.jpg, SkyBiometry, 1.4386463, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.226563, jpg
+2Âº, BioID_0056.jpg, SkyBiometry, 1.572864, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 19.010742, jpg
+2Âº, BioID_0057.jpg, SkyBiometry, 1.1660165, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.30371, jpg
+2Âº, BioID_0058.jpg, SkyBiometry, 1.0024387, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.613281, jpg
+2Âº, BioID_0059.jpg, SkyBiometry, 1.8412994, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.139648, jpg
+2Âº, BioID_0060.jpg, SkyBiometry, 1.6777216, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.017578, jpg
+2Âº, BioID_0061.jpg, SkyBiometry, 1.1408507, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.74414, jpg
+2Âº, BioID_0062.jpg, SkyBiometry, 1.1114906, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 19.97461, jpg
+2Âº, BioID_0063.jpg, SkyBiometry, 1.1072962, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.560547, jpg
+2Âº, BioID_0064.jpg, SkyBiometry, 2.2691185, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.063477, jpg
+2Âº, BioID_0065.jpg, SkyBiometry, 2.8605154, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.195313, jpg
+2Âº, BioID_0066.jpg, SkyBiometry, 2.4872222, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.341797, jpg
+2Âº, BioID_0067.jpg, SkyBiometry, 1.4092861, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 20.948242, jpg
+2Âº, BioID_0068.jpg, SkyBiometry, 1.0611589, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.054688, jpg
+2Âº, BioID_0069.jpg, SkyBiometry, 1.2582912, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.067383, jpg
+2Âº, BioID_0070.jpg, SkyBiometry, 1.5015608, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.001953, jpg
+2Âº, BioID_0071.jpg, SkyBiometry, 1.2876513, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.8125, jpg
+2Âº, BioID_0072.jpg, SkyBiometry, 1.8203279, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 22.425781, jpg
+2Âº, BioID_0073.jpg, SkyBiometry, 1.2289311, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.523438, jpg
+2Âº, BioID_0074.jpg, SkyBiometry, 1.3086228, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.66504, jpg
+2Âº, BioID_0075.jpg, SkyBiometry, 1.3505659, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 21.253906, jpg
+2Âº, BioID_0076.jpg, SkyBiometry, 0.8304722, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.52832, jpg
+2Âº, BioID_0077.jpg, SkyBiometry, 0.8178893, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.920898, jpg
+2Âº, BioID_0078.jpg, SkyBiometry, 0.8514437, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.164063, jpg
+2Âº, BioID_0079.jpg, SkyBiometry, 0.8220836, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.044922, jpg
+2Âº, BioID_0080.jpg, SkyBiometry, 0.8682209, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.923828, jpg
+2Âº, BioID_0081.jpg, SkyBiometry, 0.85983235, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.902344, jpg
+2Âº, BioID_0082.jpg, SkyBiometry, 1.0611589, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.719727, jpg
+2Âº, BioID_0083.jpg, SkyBiometry, 0.9185526, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.08789, jpg
+2Âº, BioID_0084.jpg, SkyBiometry, 1.6106128, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.886719, jpg
+2Âº, BioID_0085.jpg, SkyBiometry, 0.88919246, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.874023, jpg
+2Âº, BioID_0086.jpg, SkyBiometry, 0.9814671, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.769531, jpg
+2Âº, BioID_0087.jpg, SkyBiometry, 0.8388608, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.893555, jpg
+2Âº, BioID_0088.jpg, SkyBiometry, 0.8304722, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 15.878906, jpg
+2Âº, BioID_0089.jpg, SkyBiometry, 1.0611589, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 16.176758, jpg
+2Âº, BioID_0090.jpg, SkyBiometry, 1.0317988, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.760742, jpg
+2Âº, BioID_0091.jpg, SkyBiometry, 1.0401874, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.506836, jpg
+2Âº, BioID_0092.jpg, SkyBiometry, 1.6399728, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.338867, jpg
+2Âº, BioID_0093.jpg, SkyBiometry, 1.0192158, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.586914, jpg
+2Âº, BioID_0094.jpg, SkyBiometry, 1.0611589, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.576172, jpg
+2Âº, BioID_0095.jpg, SkyBiometry, 1.0276045, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.927734, jpg
+2Âº, BioID_0096.jpg, SkyBiometry, 1.103102, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 18.919922, jpg
+2Âº, BioID_0097.jpg, SkyBiometry, 1.2876513, error - en la respuesta del servicio: 400, error - en la respuesta del servicio: 400, 19.106445, jpg
+2Âº, BioID_0011.jpg, OpenCV, 0.4110418, 113.31814, error - archivo incorrecto para Precision, 21.817383, jpg
+2Âº, BioID_0012.jpg, OpenCV, 0.49912217, 108.68762, error - archivo incorrecto para Precision, 21.493164, jpg
+2Âº, BioID_0013.jpg, OpenCV, 0.4194304, 109.38464, error - archivo incorrecto para Precision, 21.993164, jpg
+2Âº, BioID_0014.jpg, OpenCV, 0.4110418, 115.83609, error - archivo incorrecto para Precision, 21.920898, jpg
+2Âº, BioID_0015.jpg, OpenCV, 0.4404019, 130.08075, error - archivo incorrecto para Precision, 21.816406, jpg
+2Âº, BioID_0016.jpg, OpenCV, 0.37748736, 118.96218, error - archivo incorrecto para Precision, 18.302734, jpg
+2Âº, BioID_0017.jpg, OpenCV, 0.39007026, 116.73046, error - archivo incorrecto para Precision, 18.594727, jpg
+2Âº, BioID_0018.jpg, OpenCV, 0.40684748, 127.141655, error - archivo incorrecto para Precision, 22.86621, jpg
+2Âº, BioID_0019.jpg, OpenCV, 0.4404019, 105.15227, error - archivo incorrecto para Precision, 24.311523, jpg
+2Âº, BioID_0020.jpg, OpenCV, 0.4194304, 104.62313, error - archivo incorrecto para Precision, 24.569336, jpg
+2Âº, BioID_0021.jpg, OpenCV, 0.4320133, 110.788086, error - archivo incorrecto para Precision, 24.835938, jpg
+2Âº, BioID_0022.jpg, OpenCV, 0.4194304, 112.68097, error - archivo incorrecto para Precision, 24.807617, jpg
+2Âº, BioID_0023.jpg, OpenCV, 0.4194304, 107.042046, error - archivo incorrecto para Precision, 25.745117, jpg
+2Âº, BioID_0024.jpg, OpenCV, 0.44879052, 114.90866, error - archivo incorrecto para Precision, 25.074219, jpg
+2Âº, BioID_0025.jpg, OpenCV, 0.39007026, 117.72001, error - archivo incorrecto para Precision, 14.457031, jpg
+2Âº, BioID_0026.jpg, OpenCV, 0.40684748, 110.85576, error - archivo incorrecto para Precision, 15.537109, jpg
+2Âº, BioID_0027.jpg, OpenCV, 0.4320133, 84.50444, error - archivo incorrecto para Precision, 17.082031, jpg
+2Âº, BioID_0028.jpg, OpenCV, 0.33135003, 109.77249, error - archivo incorrecto para Precision, 16.546875, jpg
+2Âº, BioID_0029.jpg, OpenCV, 0.3103785, 105.546196, error - archivo incorrecto para Precision, 16.63086, jpg
+2Âº, BioID_0030.jpg, OpenCV, 0.3187671, 108.24047, error - archivo incorrecto para Precision, 16.469727, jpg
+2Âº, BioID_0031.jpg, OpenCV, 0.33135003, 111.41364, error - archivo incorrecto para Precision, 16.368164, jpg
+2Âº, BioID_0032.jpg, OpenCV, 0.3271557, 108.78419, error - archivo incorrecto para Precision, 16.195313, jpg
+2Âº, BioID_0033.jpg, OpenCV, 0.49073356, 119.36499, error - archivo incorrecto para Precision, 15.928711, jpg
+2Âº, BioID_0034.jpg, OpenCV, 0.33973864, 117.66053, error - archivo incorrecto para Precision, 15.719727, jpg
+2Âº, BioID_0035.jpg, OpenCV, 0.36909875, 113.74094, error - archivo incorrecto para Precision, 15.762695, jpg
+2Âº, BioID_0036.jpg, OpenCV, 0.36071014, 122.641754, error - archivo incorrecto para Precision, 15.116211, jpg
+2Âº, BioID_0037.jpg, OpenCV, 0.36071014, 119.03781, error - archivo incorrecto para Precision, 15.091797, jpg
+2Âº, BioID_0038.jpg, OpenCV, 0.38168165, 107.912, error - archivo incorrecto para Precision, 15.859375, jpg
+2Âº, BioID_0039.jpg, OpenCV, 0.36909875, 110.98198, error - archivo incorrecto para Precision, 15.810547, jpg
+2Âº, BioID_0040.jpg, OpenCV, 0.34812725, 126.210144, error - archivo incorrecto para Precision, 15.34082, jpg
+2Âº, BioID_0041.jpg, OpenCV, 0.36071014, 116.6619, error - archivo incorrecto para Precision, 15.602539, jpg
+2Âº, BioID_0042.jpg, OpenCV, 0.39007026, 120.9504, error - archivo incorrecto para Precision, 15.364258, jpg
+2Âº, BioID_0043.jpg, OpenCV, 0.38168165, 122.44999, error - archivo incorrecto para Precision, 15.910156, jpg
+2Âº, BioID_0044.jpg, OpenCV, 0.36909875, 120.92973, error - archivo incorrecto para Precision, 14.995117, jpg
+2Âº, BioID_0045.jpg, OpenCV, 0.36071014, 125.21981, error - archivo incorrecto para Precision, 14.691406, jpg
+2Âº, BioID_0046.jpg, OpenCV, 0.39007026, 120.54045, error - archivo incorrecto para Precision, 16.53711, jpg
+2Âº, BioID_0047.jpg, OpenCV, 0.39845887, 105.47511, error - archivo incorrecto para Precision, 17.785156, jpg
+2Âº, BioID_0048.jpg, OpenCV, 0.38168165, 101.65137, error - archivo incorrecto para Precision, 17.453125, jpg
+2Âº, BioID_0049.jpg, OpenCV, 0.38168165, 99.0404, error - archivo incorrecto para Precision, 17.314453, jpg
+2Âº, BioID_0050.jpg, OpenCV, 0.4404019, 114.28473, error - archivo incorrecto para Precision, 22.249023, jpg
+2Âº, BioID_0051.jpg, OpenCV, 0.40684748, 113.216606, error - archivo incorrecto para Precision, 22.047852, jpg
+2Âº, BioID_0052.jpg, OpenCV, 0.4194304, 119.64113, error - archivo incorrecto para Precision, 22.344727, jpg
+2Âº, BioID_0053.jpg, OpenCV, 0.109051906, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.060547, jpg
+2Âº, BioID_0054.jpg, OpenCV, 0.12163482, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 23.248047, jpg
+2Âº, BioID_0055.jpg, OpenCV, 0.47815067, 126.06348, error - archivo incorrecto para Precision, 20.226563, jpg
+2Âº, BioID_0056.jpg, OpenCV, 0.4194304, 109.201645, error - archivo incorrecto para Precision, 19.010742, jpg
+2Âº, BioID_0057.jpg, OpenCV, 0.4026532, 102.59142, error - archivo incorrecto para Precision, 20.30371, jpg
+2Âº, BioID_0058.jpg, OpenCV, 0.40684748, 116.21101, error - archivo incorrecto para Precision, 20.613281, jpg
+2Âº, BioID_0059.jpg, OpenCV, 0.1006633, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.139648, jpg
+2Âº, BioID_0060.jpg, OpenCV, 0.12163482, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 21.017578, jpg
+2Âº, BioID_0061.jpg, OpenCV, 0.117440514, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 20.74414, jpg
+2Âº, BioID_0062.jpg, OpenCV, 0.4320133, 121.45781, error - archivo incorrecto para Precision, 19.97461, jpg
+2Âº, BioID_0063.jpg, OpenCV, 0.4404019, 112.27199, error - archivo incorrecto para Precision, 20.560547, jpg
+2Âº, BioID_0064.jpg, OpenCV, 0.49073356, 109.65856, error - archivo incorrecto para Precision, 20.063477, jpg
+2Âº, BioID_0065.jpg, OpenCV, 0.56203675, 113.600174, error - archivo incorrecto para Precision, 20.195313, jpg
+2Âº, BioID_0066.jpg, OpenCV, 0.4404019, 123.71338, error - archivo incorrecto para Precision, 20.341797, jpg
+2Âº, BioID_0067.jpg, OpenCV, 0.49912217, 115.43397, error - archivo incorrecto para Precision, 20.948242, jpg
+2Âº, BioID_0068.jpg, OpenCV, 0.56203675, 114.56003, error - archivo incorrecto para Precision, 21.054688, jpg
+2Âº, BioID_0069.jpg, OpenCV, 0.5284823, 120.01666, error - archivo incorrecto para Precision, 21.067383, jpg
+2Âº, BioID_0070.jpg, OpenCV, 0.5117051, 121.313644, error - archivo incorrecto para Precision, 21.001953, jpg
+2Âº, BioID_0071.jpg, OpenCV, 0.48234496, 114.236595, error - archivo incorrecto para Precision, 21.8125, jpg
+2Âº, BioID_0072.jpg, OpenCV, 0.17196646, error - no se encontraron caras en la imagen, error - no se encontraron caras en la imagen, 22.425781, jpg
+2Âº, BioID_0073.jpg, OpenCV, 0.5200937, 112.36102, error - archivo incorrecto para Precision, 21.523438, jpg
+2Âº, BioID_0074.jpg, OpenCV, 0.47815067, 111.82576, error - archivo incorrecto para Precision, 21.66504, jpg
+2Âº, BioID_0075.jpg, OpenCV, 0.5200937, 118.595955, error - archivo incorrecto para Precision, 21.253906, jpg
+2Âº, BioID_0076.jpg, OpenCV, 0.4404019, 127.581345, error - archivo incorrecto para Precision, 15.52832, jpg
+2Âº, BioID_0077.jpg, OpenCV, 0.5200937, 123.16656, error - archivo incorrecto para Precision, 15.920898, jpg
+2Âº, BioID_0078.jpg, OpenCV, 0.5200937, 114.0, error - archivo incorrecto para Precision, 16.164063, jpg
+2Âº, BioID_0079.jpg, OpenCV, 0.49912217, 114.01754, error - archivo incorrecto para Precision, 16.044922, jpg
+2Âº, BioID_0080.jpg, OpenCV, 0.5200937, 118.004234, error - archivo incorrecto para Precision, 15.923828, jpg
+2Âº, BioID_0081.jpg, OpenCV, 0.44879052, 118.15244, error - archivo incorrecto para Precision, 15.902344, jpg
+2Âº, BioID_0082.jpg, OpenCV, 0.4110418, 118.270874, error - archivo incorrecto para Precision, 15.719727, jpg
+2Âº, BioID_0083.jpg, OpenCV, 0.43620762, 114.03947, error - archivo incorrecto para Precision, 16.08789, jpg
+2Âº, BioID_0084.jpg, OpenCV, 0.5117051, 115.212845, error - archivo incorrecto para Precision, 15.886719, jpg
+2Âº, BioID_0085.jpg, OpenCV, 0.39007026, 116.34862, error - archivo incorrecto para Precision, 15.874023, jpg
+2Âº, BioID_0086.jpg, OpenCV, 0.39845887, 114.35471, error - archivo incorrecto para Precision, 15.769531, jpg
+2Âº, BioID_0087.jpg, OpenCV, 0.4026532, 119.33985, error - archivo incorrecto para Precision, 15.893555, jpg
+2Âº, BioID_0088.jpg, OpenCV, 0.39007026, 117.426575, error - archivo incorrecto para Precision, 15.878906, jpg
+2Âº, BioID_0089.jpg, OpenCV, 0.4194304, 114.0, error - archivo incorrecto para Precision, 16.176758, jpg
+2Âº, BioID_0090.jpg, OpenCV, 0.3103785, 114.47707, error - archivo incorrecto para Precision, 18.760742, jpg
+2Âº, BioID_0091.jpg, OpenCV, 0.3103785, 111.32835, error - archivo incorrecto para Precision, 18.506836, jpg
+2Âº, BioID_0092.jpg, OpenCV, 0.3103785, 112.94689, error - archivo incorrecto para Precision, 18.338867, jpg
+2Âº, BioID_0093.jpg, OpenCV, 0.2977956, 114.49017, error - archivo incorrecto para Precision, 18.586914, jpg
+2Âº, BioID_0094.jpg, OpenCV, 0.30198988, 124.0645, error - archivo incorrecto para Precision, 18.576172, jpg
+2Âº, BioID_0095.jpg, OpenCV, 0.33135003, 107.51744, error - archivo incorrecto para Precision, 18.927734, jpg
+2Âº, BioID_0096.jpg, OpenCV, 0.33973864, 102.4207, error - archivo incorrecto para Precision, 18.919922, jpg
+2Âº, BioID_0097.jpg, OpenCV, 0.38168165, 122.72327, error - archivo incorrecto para Precision, 19.106445, jpg
+2Âº, BioID_0011.jpg, GooglePlay, 0.109051906, 4.1231055, error - archivo incorrecto para Precision, 21.817383, jpg
+2Âº, BioID_0012.jpg, GooglePlay, 0.05033165, 6.0827627, error - archivo incorrecto para Precision, 21.493164, jpg
+2Âº, BioID_0013.jpg, GooglePlay, 0.05033165, 5.0, error - archivo incorrecto para Precision, 21.993164, jpg
+2Âº, BioID_0014.jpg, GooglePlay, 0.05033165, 8.602325, error - archivo incorrecto para Precision, 21.920898, jpg
+2Âº, BioID_0015.jpg, GooglePlay, 0.05033165, 7.071068, error - archivo incorrecto para Precision, 21.816406, jpg
+2Âº, BioID_0016.jpg, GooglePlay, 0.058720257, 5.3851647, error - archivo incorrecto para Precision, 18.302734, jpg
+2Âº, BioID_0017.jpg, GooglePlay, 0.05033165, 6.3245554, error - archivo incorrecto para Precision, 18.594727, jpg
+2Âº, BioID_0018.jpg, GooglePlay, 0.05033165, 7.071068, error - archivo incorrecto para Precision, 22.86621, jpg
+2Âº, BioID_0019.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 24.311523, jpg
+2Âº, BioID_0020.jpg, GooglePlay, 0.05033165, 4.1231055, error - archivo incorrecto para Precision, 24.569336, jpg
+2Âº, BioID_0021.jpg, GooglePlay, 0.058720257, 4.2426405, error - archivo incorrecto para Precision, 24.835938, jpg
+2Âº, BioID_0022.jpg, GooglePlay, 0.05033165, 4.1231055, error - archivo incorrecto para Precision, 24.807617, jpg
+2Âº, BioID_0023.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 25.745117, jpg
+2Âº, BioID_0024.jpg, GooglePlay, 0.06710886, 4.472136, error - archivo incorrecto para Precision, 25.074219, jpg
+2Âº, BioID_0025.jpg, GooglePlay, 0.05033165, 5.0, error - archivo incorrecto para Precision, 14.457031, jpg
+2Âº, BioID_0026.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 15.537109, jpg
+2Âº, BioID_0027.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 17.082031, jpg
+2Âº, BioID_0028.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 16.546875, jpg
+2Âº, BioID_0029.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 16.63086, jpg
+2Âº, BioID_0030.jpg, GooglePlay, 0.07130317, 2.828427, error - archivo incorrecto para Precision, 16.469727, jpg
+2Âº, BioID_0031.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 16.368164, jpg
+2Âº, BioID_0032.jpg, GooglePlay, 0.058720257, 3.1622777, error - archivo incorrecto para Precision, 16.195313, jpg
+2Âº, BioID_0033.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 15.928711, jpg
+2Âº, BioID_0034.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 15.719727, jpg
+2Âº, BioID_0035.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 15.762695, jpg
+2Âº, BioID_0036.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 15.116211, jpg
+2Âº, BioID_0037.jpg, GooglePlay, 0.05033165, 1.4142135, error - archivo incorrecto para Precision, 15.091797, jpg
+2Âº, BioID_0038.jpg, GooglePlay, 0.05033165, 2.236068, error - archivo incorrecto para Precision, 15.859375, jpg
+2Âº, BioID_0039.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 15.810547, jpg
+2Âº, BioID_0040.jpg, GooglePlay, 0.05033165, 5.3851647, error - archivo incorrecto para Precision, 15.34082, jpg
+2Âº, BioID_0041.jpg, GooglePlay, 0.04194304, 2.828427, error - archivo incorrecto para Precision, 15.602539, jpg
+2Âº, BioID_0042.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 15.364258, jpg
+2Âº, BioID_0043.jpg, GooglePlay, 0.05033165, 5.3851647, error - archivo incorrecto para Precision, 15.910156, jpg
+2Âº, BioID_0044.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 14.995117, jpg
+2Âº, BioID_0045.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 14.691406, jpg
+2Âº, BioID_0046.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 16.53711, jpg
+2Âº, BioID_0047.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 17.785156, jpg
+2Âº, BioID_0048.jpg, GooglePlay, 0.04194304, 3.1622777, error - archivo incorrecto para Precision, 17.453125, jpg
+2Âº, BioID_0049.jpg, GooglePlay, 0.058720257, 3.1622777, error - archivo incorrecto para Precision, 17.314453, jpg
+2Âº, BioID_0050.jpg, GooglePlay, 0.058720257, 2.236068, error - archivo incorrecto para Precision, 22.249023, jpg
+2Âº, BioID_0051.jpg, GooglePlay, 0.058720257, 2.236068, error - archivo incorrecto para Precision, 22.047852, jpg
+2Âº, BioID_0052.jpg, GooglePlay, 0.088080384, 4.0, error - archivo incorrecto para Precision, 22.344727, jpg
+2Âº, BioID_0053.jpg, GooglePlay, 0.07130317, 1.0, error - archivo incorrecto para Precision, 23.060547, jpg
+2Âº, BioID_0054.jpg, GooglePlay, 0.079691775, 2.0, error - archivo incorrecto para Precision, 23.248047, jpg
+2Âº, BioID_0055.jpg, GooglePlay, 0.06291456, 6.0827627, error - archivo incorrecto para Precision, 20.226563, jpg
+2Âº, BioID_0056.jpg, GooglePlay, 0.046137344, 5.0990195, error - archivo incorrecto para Precision, 19.010742, jpg
+2Âº, BioID_0057.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 20.30371, jpg
+2Âº, BioID_0058.jpg, GooglePlay, 0.037748735, 2.828427, error - archivo incorrecto para Precision, 20.613281, jpg
+2Âº, BioID_0059.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 21.139648, jpg
+2Âº, BioID_0060.jpg, GooglePlay, 0.046137344, 3.6055512, error - archivo incorrecto para Precision, 21.017578, jpg
+2Âº, BioID_0061.jpg, GooglePlay, 0.058720257, 3.6055512, error - archivo incorrecto para Precision, 20.74414, jpg
+2Âº, BioID_0062.jpg, GooglePlay, 0.05033165, 2.0, error - archivo incorrecto para Precision, 19.97461, jpg
+2Âº, BioID_0063.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 20.560547, jpg
+2Âº, BioID_0064.jpg, GooglePlay, 0.06291456, 3.6055512, error - archivo incorrecto para Precision, 20.063477, jpg
+2Âº, BioID_0065.jpg, GooglePlay, 0.05033165, 2.828427, error - archivo incorrecto para Precision, 20.195313, jpg
+2Âº, BioID_0066.jpg, GooglePlay, 0.058720257, 1.0, error - archivo incorrecto para Precision, 20.341797, jpg
+2Âº, BioID_0067.jpg, GooglePlay, 0.07130317, 2.828427, error - archivo incorrecto para Precision, 20.948242, jpg
+2Âº, BioID_0068.jpg, GooglePlay, 0.058720257, 2.828427, error - archivo incorrecto para Precision, 21.054688, jpg
+2Âº, BioID_0069.jpg, GooglePlay, 0.06291456, 8.062258, error - archivo incorrecto para Precision, 21.067383, jpg
+2Âº, BioID_0070.jpg, GooglePlay, 0.07130317, 3.6055512, error - archivo incorrecto para Precision, 21.001953, jpg
+2Âº, BioID_0071.jpg, GooglePlay, 0.05033165, 2.0, error - archivo incorrecto para Precision, 21.8125, jpg
+2Âº, BioID_0072.jpg, GooglePlay, 0.05033165, 4.0, error - archivo incorrecto para Precision, 22.425781, jpg
+2Âº, BioID_0073.jpg, GooglePlay, 0.05033165, 1.4142135, error - archivo incorrecto para Precision, 21.523438, jpg
+2Âº, BioID_0074.jpg, GooglePlay, 0.05033165, 3.1622777, error - archivo incorrecto para Precision, 21.66504, jpg
+2Âº, BioID_0075.jpg, GooglePlay, 0.058720257, 4.0, error - archivo incorrecto para Precision, 21.253906, jpg
+2Âº, BioID_0076.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 15.52832, jpg
+2Âº, BioID_0077.jpg, GooglePlay, 0.058720257, 2.828427, error - archivo incorrecto para Precision, 15.920898, jpg
+2Âº, BioID_0078.jpg, GooglePlay, 0.06291456, 4.472136, error - archivo incorrecto para Precision, 16.164063, jpg
+2Âº, BioID_0079.jpg, GooglePlay, 0.058720257, 5.0, error - archivo incorrecto para Precision, 16.044922, jpg
+2Âº, BioID_0080.jpg, GooglePlay, 0.07130317, 4.0, error - archivo incorrecto para Precision, 15.923828, jpg
+2Âº, BioID_0081.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 15.902344, jpg
+2Âº, BioID_0082.jpg, GooglePlay, 0.05033165, 3.0, error - archivo incorrecto para Precision, 15.719727, jpg
+2Âº, BioID_0083.jpg, GooglePlay, 0.05033165, 3.6055512, error - archivo incorrecto para Precision, 16.08789, jpg
+2Âº, BioID_0084.jpg, GooglePlay, 0.058720257, 3.1622777, error - archivo incorrecto para Precision, 15.886719, jpg
+2Âº, BioID_0085.jpg, GooglePlay, 0.06291456, 5.0990195, error - archivo incorrecto para Precision, 15.874023, jpg
+2Âº, BioID_0086.jpg, GooglePlay, 0.058720257, 3.1622777, error - archivo incorrecto para Precision, 15.769531, jpg
+2Âº, BioID_0087.jpg, GooglePlay, 0.06291456, 3.0, error - archivo incorrecto para Precision, 15.893555, jpg
+2Âº, BioID_0088.jpg, GooglePlay, 0.05033165, 4.1231055, error - archivo incorrecto para Precision, 15.878906, jpg
+2Âº, BioID_0089.jpg, GooglePlay, 0.058720257, 3.1622777, error - archivo incorrecto para Precision, 16.176758, jpg
+2Âº, BioID_0090.jpg, GooglePlay, 0.05033165, 1.4142135, error - archivo incorrecto para Precision, 18.760742, jpg
+2Âº, BioID_0091.jpg, GooglePlay, 0.058720257, 2.0, error - archivo incorrecto para Precision, 18.506836, jpg
+2Âº, BioID_0092.jpg, GooglePlay, 0.088080384, 1.4142135, error - archivo incorrecto para Precision, 18.338867, jpg
+2Âº, BioID_0093.jpg, GooglePlay, 0.05033165, 1.0, error - archivo incorrecto para Precision, 18.586914, jpg
+2Âº, BioID_0094.jpg, GooglePlay, 0.05033165, 1.4142135, error - archivo incorrecto para Precision, 18.576172, jpg
+2Âº, BioID_0095.jpg, GooglePlay, 0.058720257, 1.0, error - archivo incorrecto para Precision, 18.927734, jpg
+2Âº, BioID_0096.jpg, GooglePlay, 0.088080384, 1.4142135, error - archivo incorrecto para Precision, 18.919922, jpg
+2Âº, BioID_0097.jpg, GooglePlay, 0.058720257, 1.0, error - archivo incorrecto para Precision, 19.106445, jpg
