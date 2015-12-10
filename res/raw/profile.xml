@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestPlan>
+  <Name>profile</Name>
+  <NumberOfExecutionsPerImageAndProvider>1</NumberOfExecutionsPerImageAndProvider>
+  <Providers>
+    <ProviderName>OpenCV</ProviderName>
+  </Providers>
+  <settings>
+    <Eyes>false</Eyes>
+    <Smile>false</Smile>
+    <Nose>false</Nose>
+    <Ears>false</Ears>
+    <Sunglasses>false</Sunglasses>
+    <FaceOrientation>true</FaceOrientation>
+    <Cheeks>false</Cheeks>
+    <Gender>false</Gender>
+    <Mouth>false</Mouth>
+    <Glasses>false</Glasses>
+  </settings>
+  <Images>
+    <DirectoryName>C:\Users\Martina\workspace\TestToolJava\TestImages</DirectoryName>
+  </Images>
+  <Metrics>
+    <Metric>ImageSize</Metric>
+    <Metric>ImageFormat</Metric>
+  </Metrics>
+</TestPlan>
